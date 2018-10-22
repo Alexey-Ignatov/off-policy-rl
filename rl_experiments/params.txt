@@ -1,0 +1,17 @@
+elast0 = 0
+slthr0 = 6
+beta0 = 0
+season0 = 2
+sxx_cut = 5
+lw_sxx_cut = 0
+small = 0.001
+delta_elast = 0.001
+max_iter = 60
+bandwidth = 3.5
+n_alp = 60
+pr_diff = 0.002
+boh_cut = 0
+first_week = 480
+sWeek = 51
+sItem = 1
+sStore = 80
